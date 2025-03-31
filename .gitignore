@@ -1,0 +1,10 @@
+# Pastas ocultas (começando com ponto)
+.*
+!.gitignore
+
+# Ambiente virtual
+rp-env/
+env/
+.env/
+.venv/
+ENV/
